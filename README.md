@@ -42,6 +42,30 @@
 </div>  
 
 
+<h3 align="left">💻 Tech Stack</h3>
+
+<div align="left">
+
+  <a href="https://www.facebook.com/sarowarbro" target="_blank">
+<img src=https://img.shields.io/badge/Html-%232E87FB.svg?&style=for-the-badge&logo=Html&logoColor=white alt=Html style="margin-bottom: 5px;" />
+</a>
+    <a href="https://www.facebook.com/sarowarbro" target="_blank">
+<img src=https://img.shields.io/badge/Css-%232E87FB.svg?&style=for-the-badge&logo=Css&logoColor=white alt=Css style="margin-bottom: 5px;" />
+</a>
+  <a href="https://www.facebook.com/sarowarbro" target="_blank">
+<img src=https://img.shields.io/badge/Javascript-%232E87FB.svg?&style=for-the-badge&logo=Javascript&logoColor=white alt=javascript style="margin-bottom: 5px;" />
+</a>
+  <a href="https://www.facebook.com/sarowarbro" target="_blank">
+<img src=https://img.shields.io/badge/Wordpress-%232E87FB.svg?&style=for-the-badge&logo=Wordpress&logoColor=white alt=Wordpress style="margin-bottom: 5px;" />
+</a>
+
+
+
+</div>  
+
+
+
+
 
 
 <h3 align="left">📟 GitHub Stats</h3>
